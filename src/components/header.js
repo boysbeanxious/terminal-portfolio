@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => {
         <h1>{">"}</h1>
         <h1>
           {isLoaded ? (
-            "Krzysztof Pantak"
+            "한묘경"
           ) : (
             <Typewriter
               style={{ marginTop: 0, paddingTop: 0 }}
