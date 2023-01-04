@@ -4,22 +4,13 @@ video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "mojephoto.jpg"
-popupImageAlt: "Cartoon photo of myself"
-popupGithubLink: "https://github.com/Kielx"
+popupImageAlt: "img"
+popupGithubLink: "https://github.com/boysbeanxious22"
 techIcons: [
-        "javascript",
-        "nodedotjs",
-        "react", 
-        "html5",
-        "css3",
-        "cplusplus", 
-        "c",
         "python",
         "mongodb",
         "express",
         "bootstrap", 
-        "sass",
-        "heroku",
         "netlify",
         "postman",
         "d3dotjs", 
@@ -33,9 +24,12 @@ techIcons: [
       ]
 ---
 
-## 한묘경
+## 관심분야
+<i>#Data Analytics</i>, <i>#Machine Learning</i>, <i>#Media</i>, <i>#Platform</i><br/>
 
-Software Developer based in Kielce Poland 🇵🇱.<br>
-CS Sophomore at the Kielce University of Technology.<br>
-Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.<br>
-Also a Strength Coach and a family man.
+
+## Skill set
+	- Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
+        - Platform : WEB/APP<br/>
+        - System   : Window, Linux<br/>
+        - Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
