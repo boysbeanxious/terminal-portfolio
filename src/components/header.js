@@ -26,13 +26,13 @@ const Header = ({ siteTitle }) => {
               }}
               onInit={typewriter => {
                 typewriter
-                  .typeString("Software Developer")
+                  .typeString("Future Developer")
                   .pauseFor(2500)
                   .deleteAll()
-                  .typeString("Problem solver")
-                  .pauseFor(2500)
+                  .typeString("IT 의 견고함에 비즈니스 분석 역량을 더한")
+                  .pauseFor(2500)	
                   .deleteAll()
-                  .typeString("Krzysztof Pantak")
+                  .typeString("한묘경")
                   .callFunction(() => {
                     setIsLoaded(true)
                   })
