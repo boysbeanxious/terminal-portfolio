@@ -14,7 +14,6 @@ techIcons: [
         "express",
         "react",
         "nodedotjs",
-        "bootstrap",
         "html5",
         "css3",
         "heroku",
