@@ -236,6 +236,7 @@ export default function ItemsList() {
       <>
         <li>→ Info:</li> {info} {contactItem} <li>→ Projects:</li>
         {projects} <li className="miniProject">→ Mini-Projects:</li>
+	<li className="itProject">→ IT-Projects:</li>
       </>
     )
   }
