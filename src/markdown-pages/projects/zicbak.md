@@ -1,7 +1,7 @@
 ---
 slug: "projects/zikbak"
 added: "2021-08-02"
-nameOfClass: "projects-items itProjects"
+nameOfClass: "projects-items itProject"
 title: "zikbak"
 listName: "🍒 /zikbak"
 video: "false"
