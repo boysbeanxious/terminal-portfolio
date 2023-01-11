@@ -234,9 +234,10 @@ export default function ItemsList() {
   const mappedItems = () => {
     return (
       <>
-        <li>→ Info:</li> {info} {contactItem} <li>→ Projects:</li>
-        {projects} <li className="miniProject">→ Mini-Projects:</li>
-	<li className="itProject">→ IT-Projects:</li>
+        <li>→ Info:</li> {info} {contactItem} <li>→ Experience:</li>
+        {projects} <li className="dataProject">→ Data-Sideproject-:</li>
+	<li className="itProject">→ IT-Sideprojects:</li>
+	<li className="BizProject">→ Biz-Sideprojects:</li>
       </>
     )
   }
