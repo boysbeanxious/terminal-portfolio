@@ -235,7 +235,7 @@ export default function ItemsList() {
     return (
       <>
         <li>→ Info:</li> {info} {contactItem} <li>→ Experience:</li>
-        {projects} <li className="dataProject">→ Data-Sideproject-:</li>
+        {projects} <li className="dataProject">→ Data-Sideproject:</li>
 	<li className="itProject">→ IT-Sideprojects:</li>
 	<li className="BizProject">→ Biz-Sideprojects:</li>
       </>
