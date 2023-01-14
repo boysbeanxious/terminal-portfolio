@@ -1,10 +1,10 @@
 ---
-slug: "projects/3-sysdev"
+slug: "projects/2-sysproof"
 added: "2021-08-04"
 video: "false"
 nameOfClass: "projects-items"
-title: "시스템 설계.개발"
-listName: "👩‍💻 /시스템 설계.개발"
+title: "시스템 검증"
+listName: "👩‍💻 /시스템 검증"
 popupImageSrc: "phonebook.png"
 popupImageAlt: "Phonebook app"
 popupLiveLink: "https://fullstackopen-phonebook-api.herokuapp.com/"
