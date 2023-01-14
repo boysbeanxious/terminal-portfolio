@@ -20,4 +20,6 @@ techIcons: [
       ]
 ---
 
-The project is a part 3 of Fullstackopen course held by The University of Helsinki which is the oldest and largest science university in Finland, with an international scientific community of 40,000 people. Part3 summarizes work from previous parts with a Phonebook project. It's a RESTful API for phonebook, with build scripts that allow to integrate React frontend from Part2 of the course. RESTful API can be acessed separateley from frontend.
+### 데이터 품질 관리
+    - 일 검증 배치 프로그램 작성하여 담당업무 테이블의 데이터 품질 관리
+    - 수수료 지급금액에 대한 이상치 감지하여 특이사항 발생 시 모니터링 기능 강화
