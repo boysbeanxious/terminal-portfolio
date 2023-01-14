@@ -1,19 +1,22 @@
 ---
-slug: "projects/rfm"
-nameOfClass: "projects-items dataProjects”
-title: "RFM"
-added: ”2021-08-07“
-video: "false"
-listName: "🌎 /RFM"
-popupImageSrc: "country-quiz.webp"
-popupImageAlt: "Country Quiz screenshot"
-popupLiveLink: "https://country-quiz.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/country-quiz"
+slug: ”projects/test“
+nameOfClass: ”projects-items“
+title: ”test“
+added: ”2021-10-01“
+listName: ”📸 /test“
+video: ”/myUnsplash.mp4“
+popupImageSrc: ”My-Unsplash-ss.png“
+popupImageAlt: ”App screenshot“
+popupLiveLink: ”https://my-unsplash-mu.vercel.app/“
+popupGithubLink: ”https://github.com/Kielx/my-unsplash“
 techIcons: [
-        "react",
-        "html5",
-        "css3",
-        "tailwindcss",
+        ”react“,
+        ”firebase“,
+        ”redux“,
+        ”html5“,
+        ”css3“,
+        ”tailwindcss“,
+        ”materialdesign“,
       ]
 ---
 
