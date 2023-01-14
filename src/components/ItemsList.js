@@ -236,8 +236,8 @@ export default function ItemsList() {
       <>
         <li>→ Info:</li> {info} {contactItem} <li>→ Experience:</li>
         {projects} <li className="dataProject">→ Data-Sideproject:</li>
-	<li className="itProject">→ IT-Sideprojects:</li>
-	<li className="BizProject">→ Biz-Sideprojects:</li>
+	    <li className="itProject">→ IT-Sideprojects:</li>
+	    <li className="BizProject">→ Biz-Sideprojects:</li>
       </>
     )
   }
@@ -258,8 +258,10 @@ export default function ItemsList() {
             /Contact
           </Link>
         </li>{" "}
-        <li>→ Projects:</li>
-        {projectsMobile} <li className="miniProject">→ Mini-Projects:</li>
+        <li>→ Experience:</li>
+        {projectsMobile}  <li className="dataProject">→ Data-Sideproject:</li>
+        	<li className="itProject">→ IT-Sideprojects:</li>
+	    <li className="BizProject">→ Biz-Sideprojects:</li>
       </>
     )
   }
