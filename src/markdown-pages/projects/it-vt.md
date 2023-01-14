@@ -1,9 +1,9 @@
 ---
-slug: "projects/zikbak"
+slug: "projects/1-vt"
 added: "2021-08-02"
 nameOfClass: "projects-items itProjects"
-title: "zikbak"
-listName: "🍒 /zikbak"
+title: "Vitrual Theather"
+listName: "🍒 /Vitrual Theather"
 video: "false"
 popupImageSrc: "SunnysideSS.png"
 popupImageAlt: "Sunnyside agency screenshot"
