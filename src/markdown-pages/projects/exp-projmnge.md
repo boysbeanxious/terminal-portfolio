@@ -5,10 +5,6 @@ video: "false"
 nameOfClass: "projects-items"
 title: "프로젝트 관리"
 listName: "👩‍💻 /프로젝트 관리"
-popupImageSrc: ""
-popupImageAlt: ""
-popupLiveLink: ""
-popupGithubLink: ""
 techIcons: [
         "mongodb",
         "express",
