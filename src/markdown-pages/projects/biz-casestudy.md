@@ -1,9 +1,9 @@
 ---
-slug: "projects/2-movmov"
+slug: "projects/3-casestudy"
 added: "2021-08-02"
-nameOfClass: "projects-items itProjects"
-title: "매일매일 움직움직"
-listName: "📱 /매일매일 움직움직"
+nameOfClass: "projects-items bizProjects"
+title: "BTS, DBS의 Case Study"
+listName: "📋 /BTS, DBS의 Case Study"
 video: "false"
 popupImageSrc: "SunnysideSS.png"
 popupImageAlt: "Sunnyside agency screenshot"

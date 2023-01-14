@@ -1,9 +1,9 @@
 ---
-slug: "projects/2-movmov"
+slug: "projects/2-root"
 added: "2021-08-02"
-nameOfClass: "projects-items itProjects"
-title: "매일매일 움직움직"
-listName: "📱 /매일매일 움직움직"
+nameOfClass: "projects-items bizProjects"
+title: "[루트] 헬스케어의 답을 찾다"
+listName: "📋 /루트 : 헬스케어의 답을 찾다"
 video: "false"
 popupImageSrc: "SunnysideSS.png"
 popupImageAlt: "Sunnyside agency screenshot"
