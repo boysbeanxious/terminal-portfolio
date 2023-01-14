@@ -1,10 +1,10 @@
 ---
-slug: "projects/country-quiz"
-nameOfClass: "projects-items"
+slug: "projects/rfm"
+nameOfClass: "projects-items dataProjects”
 added: "2021-08-07"
-title: "Country Quiz"
+title: "RFM"
 video: "false"
-listName: "🌎 /Country Quiz"
+listName: "🌎 /RFM"
 popupImageSrc: "country-quiz.webp"
 popupImageAlt: "Country Quiz screenshot"
 popupLiveLink: "https://country-quiz.pantak.net/"

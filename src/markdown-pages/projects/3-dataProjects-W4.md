@@ -1,10 +1,10 @@
 ---
-slug: "projects/expenses-analyzer"
-nameOfClass: "projects-items"
+slug: "projects/w4"
+nameOfClass: “projects-items dataProjects”
 added: "2021-08-05"
-listName: "📈 /Expenses Analyzer"
+listName: "📈 /주4일제"
 video: "false"
-title: "Expenses Analyzer"
+title: "주4일제"
 popupImageSrc: "expensesAnalyzer.png"
 popupImageAlt: "Expenses analyzer screenshot"
 popupGithubLink: "https://github.com/Kielx/expenses-analyzer"

@@ -1,8 +1,8 @@
 ---
-slug: "projects/etch-a-sketch"
+slug: "projects/insert-coin"
 added: "2021-08-01"
-nameOfClass: "projects-items miniProjects"
-title: "Etch-a-sketch"
+nameOfClass: “projects-items dataProjects”
+title: "insert-coin"
 video: "false"
 listName: "🎨 /Etch-a-sketch"
 popupImageSrc: "etch-a-sketch.png"

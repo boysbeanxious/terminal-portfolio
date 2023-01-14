@@ -1,10 +1,10 @@
 ---
-slug: "projects/ip-tracker"
-nameOfClass: "projects-items"
-title: "IP Tracker"
+slug: "projects/nochicken"
+nameOfClass: “projects-items dataProjects”
+title: "외식업"
 added: "2021-08-24"
 video: "/IP-tracker-view.mp4"
-listName: "🎯 /IP Tracker"
+listName: "🎯 /치킨집은 정답이 아니다"
 popupImageSrc: "ip-tracker.webp"
 popupImageAlt: "IP Tracker screenshot"
 popupLiveLink: "https://ip-tracker.pantak.net/"
