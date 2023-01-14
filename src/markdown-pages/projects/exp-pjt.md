@@ -1,9 +1,9 @@
 ---
-slug: "projects/2-sysproof"
+slug: "projects/1-projmngt"
 nameOfClass: "projects-items"
-title: "시스템 검증"
+title: "프로젝트 관리"
 added: "2021-10-01"
-listName: "👩‍💻 /시스템 검증"
+listName: "👩‍💻 /프로젝트 관리"
 video: "/myUnsplash.mp4"
 popupImageSrc: "My-Unsplash-ss.png"
 popupImageAlt: "App screenshot"

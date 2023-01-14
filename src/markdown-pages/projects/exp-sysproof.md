@@ -1,16 +1,22 @@
 ---
-slug: "projects/perceptron"
-added: "2022-05-05"
-nameOfClass: "projects-items miniProjects"
-title: "2-Input single layer Perceptron"
-listName: "👨‍🔬 /2-Input Perceptron"
-video: "false"
-popupImageSrc: "https://github.com/Kielx/2-Input-Single-Layer-Perceptron/raw/master/screenshots/Instruction4.png?raw=true"
-popupImageAlt: "2-Input single layer Perceptron screenshot"
-popupLiveLink: "https://mybinder.org/v2/gh/Kielx/2-Input-Single-Layer-Perceptron/HEAD?labpath=Perceptron.ipynb"
-popupGithubLink: "https://github.com/Kielx/2-Input-Single-Layer-Perceptron"
+slug: ”projects/2-sysproof“
+nameOfClass: ”projects-items“
+title: ”시스템 검증“
+added: ”2021-10-01“
+listName: ”👩‍💻 /시스템 검증“
+video: ”/myUnsplash.mp4“
+popupImageSrc: ”My-Unsplash-ss.png“
+popupImageAlt: ”App screenshot“
+popupLiveLink: ”https://my-unsplash-mu.vercel.app/“
+popupGithubLink: ”https://github.com/Kielx/my-unsplash“
 techIcons: [
-        "python",
+        ”react“,
+        ”firebase“,
+        ”redux“,
+        ”html5“,
+        ”css3“,
+        ”tailwindcss“,
+        ”materialdesign“,
       ]
 ---
 
