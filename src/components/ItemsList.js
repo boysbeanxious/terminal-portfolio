@@ -234,7 +234,7 @@ export default function ItemsList() {
   const mappedItems = () => {
     return (
       <>
-        <li>→ Info:</li> {info} {contactItem} <li>→ Experience:</li>
+        <li>→ Info:</li> {info} {contactItem} <li>→ Experience in Shinsegae I&C:</li>
         {projects} <li className="dataProject">→ Data-Sideproject:</li>
 	    <li className="itProject">→ IT-Sideprojects:</li>
 	    <li className="bizProject">→ Biz-Sideprojects:</li>
@@ -258,7 +258,7 @@ export default function ItemsList() {
             /Contact
           </Link>
         </li>{" "}
-        <li>→ Experience:</li>
+        <li>→ Experience in Shinsegae I&C:</li>
         {projectsMobile}  <li className="dataProject">→ Data-Sideproject:</li>
         	<li className="itProject">→ IT-Sideprojects:</li>
 	    <li className="bizProject">→ Biz-Sideprojects:</li>
