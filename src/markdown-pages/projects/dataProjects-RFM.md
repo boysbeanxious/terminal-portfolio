@@ -1,8 +1,8 @@
 ---
 slug: "projects/rfm"
 nameOfClass: "projects-items dataProjects”
-added: "2021-08-07"
 title: "RFM"
+added: ”2021-08-07“
 video: "false"
 listName: "🌎 /RFM"
 popupImageSrc: "country-quiz.webp"
