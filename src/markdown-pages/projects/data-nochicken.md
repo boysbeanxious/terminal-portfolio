@@ -17,6 +17,8 @@ techIcons: [
       ]
 ---
 
-Country quiz is a relatively simple app that utilizes RESTCountries API to create a quiz about world countries. It was a challenge from devChallanges.io which provided the idea and a set of user stories to build the app.
 
-I wanted to utilize the RESTCountries API since I first heard about it. My first take on it was to create a SPA (Single Page Application) that provided info about a particular country. It would be a decent learning experience nevertheless boring and not interactive. When I got the quiz idea I was sold. Managed to code it in two days thanks to TailwindCSS and React. The outcome looks good, is fun and useful.
+- 업종 별 매출에 영향을 미치는 요인 추출
+- 카이스트 주변과 유사한 상권 확인을 위한 군집 분석 진행 
+- 업종별 유의미한 변수 기반으로 카이스트 주변 상권의 예상 매출 top4 확인
+- 예상을 깨고 치킨전문점이 아닌 한식전문점이 가장 높은 매출을 보임  

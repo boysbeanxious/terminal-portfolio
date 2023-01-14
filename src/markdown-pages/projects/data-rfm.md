@@ -17,6 +17,8 @@ techIcons: [
       ]
 ---
 
-Country quiz is a relatively simple app that utilizes RESTCountries API to create a quiz about world countries. It was a challenge from devChallanges.io which provided the idea and a set of user stories to build the app.
-
-I wanted to utilize the RESTCountries API since I first heard about it. My first take on it was to create a SPA (Single Page Application) that provided info about a particular country. It would be a decent learning experience nevertheless boring and not interactive. When I got the quiz idea I was sold. Managed to code it in two days thanks to TailwindCSS and React. The outcome looks good, is fun and useful.
+- 찾아오는 인생술, [술담화] 의 매출데이터를 기반으로 고객별 RFM 산출
+- STP 전략 수립을 위해 RFM기반으로 K-MEANS 군집분석을 수행하여 고객 segment 세분화 
+- 실루엣계수가 비교적 1에 가까우며 고객 seg별로 고르게 분포된 최적의 클러스터 개수 선정 
+- 고객 seg 중 타깃 그룹을 선정하여 demo 데이터 분석
+- 기업의 실제 운영데이터 기반으로 모델링에서 전략까지 한 사이클 수행
