@@ -1,7 +1,7 @@
 ---
-slug: "projects/rfm.md"
+slug: "projects/1-rfm.md"
 nameOfClass: "projects-items dataProjects"
-added: "2021-08-07"
+added: "2022-08-07"
 title: "RFM"
 video: "false"
 listName: "🌎 /1-RFM"

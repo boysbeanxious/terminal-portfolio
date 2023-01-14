@@ -1,7 +1,7 @@
 ---
-slug: "projects/insert-coin.md"
+slug: "projects/2-insert-coin.md"
 nameOfClass: "projects-items dataProjects"
-added: "2021-08-07"
+added: "2021-12-11"
 title: "Insert Coin"
 video: "false"
 listName: "🌎 /2-insert_coin"
