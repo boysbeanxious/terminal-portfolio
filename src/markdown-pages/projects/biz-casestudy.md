@@ -25,7 +25,7 @@ test
 
 ![poster](SunnysideSS.png)
 
-<img src = ”photo.jpeg“>
+<img src = ”https://boysbeanxious22.netlify.app/photo.jpeg“>
 
 ![poster](photo.jpeg)
 
