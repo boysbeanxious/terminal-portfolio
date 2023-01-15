@@ -20,7 +20,8 @@ techIcons: [
 
 ### Overview
 test
-<img src = ”https://boysbeanxious22.netlify.app/photo.jpeg“>
+![img](https://boysbeanxious22.netlify.app/photo.jpeg)
+
 
 ### The challenge
 test
