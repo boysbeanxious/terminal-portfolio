@@ -1,9 +1,9 @@
 ---
-slug: "projects/3-ojo"
+slug: "projects/1-radio"
 added: "2021-08-02"
-nameOfClass: "projects-items itProjects"
-title: "여성운전자를 위한 블랙박스 App"
-listName: "📱 /오호레이디"
+nameOfClass: "projects-items bizProjects"
+title: "Radio가 나아가야할 길"
+listName: "📋 /Radio가_나아가야할_길"
 video: "false"
 popupImageSrc: "SunnysideSS.png"
 popupImageAlt: "Sunnyside agency screenshot"

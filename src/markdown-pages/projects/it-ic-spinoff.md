@@ -1,9 +1,9 @@
 ---
-slug: "projects/1-vt"
+slug: "projects/2-ic-spinoff"
 added: "2021-08-02"
 nameOfClass: "projects-items itProjects"
-title: "Vitrual Theather"
-listName: "📱 /Vitrual Theather"
+title: "insert coin : spin off"
+listName: "📱 /insert_coin_spinoff"
 video: "false"
 popupImageSrc: "SunnysideSS.png"
 popupImageAlt: "Sunnyside agency screenshot"
