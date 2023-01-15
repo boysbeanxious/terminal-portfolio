@@ -21,7 +21,8 @@ techIcons: [
 ### Overview
 test
 
-<img src = ”./photo.jpeg“>
+<img src = ”photo.jpeg“>
+![poster](./photo.jpeg)
 
 
 ### The challenge
