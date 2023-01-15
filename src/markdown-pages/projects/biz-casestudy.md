@@ -20,6 +20,9 @@ techIcons: [
 
 ### Overview
 test
+<p align=”center“>
+ <img src = ”../../../static/image.png“>
+</p>
 
 ### The challenge
 test
