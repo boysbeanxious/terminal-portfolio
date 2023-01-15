@@ -20,7 +20,7 @@ techIcons: [
 
 ### Overview
 test
-![img](https://boysbeanxious22.netlify.app/photo.jpeg)
+![img](https://boysbeanxious22.netlify.app/photo.jpeg){: width=”100%“ height=”100%“}
 
 
 ### The challenge
