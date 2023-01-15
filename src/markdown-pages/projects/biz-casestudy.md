@@ -21,7 +21,7 @@ techIcons: [
 ### Overview
 test
 <p align=”center“>
- <img src = ”../../../static/image.png“>
+ <img src = ”../../../static/SunnysideSS.png“>
 </p>
 
 ### The challenge
