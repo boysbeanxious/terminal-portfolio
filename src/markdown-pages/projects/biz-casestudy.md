@@ -20,9 +20,9 @@ techIcons: [
 
 ### Overview
 test
-<p align=”center“>
- <img src = ”/static/SunnysideSS.png“>
-</p>
+
+<img src = ”./photo.jpeg“>
+
 
 ### The challenge
 test
