@@ -20,15 +20,7 @@ techIcons: [
 
 ### Overview
 test
-
-<img src = ”SunnysideSS.png“>
-
-![poster](SunnysideSS.png)
-
 <img src = ”https://boysbeanxious22.netlify.app/photo.jpeg“>
-
-![poster](photo.jpeg)
-
 
 ### The challenge
 test
