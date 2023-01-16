@@ -1,14 +1,10 @@
 ---
 slug: "projects/3-sysdev"
 added: "2021-08-04"
-video: "false"
+video: "true"
 nameOfClass: "projects-items"
 title: "시스템 설계.개발"
 listName: "👩‍💻 /시스템 설계.개발"
-popupImageSrc: "phonebook.png"
-popupImageAlt: "Phonebook app"
-popupLiveLink: "https://fullstackopen-phonebook-api.herokuapp.com/"
-popupGithubLink: "https://github.com/Kielx/fullstackopen-part3"
 techIcons: [
         "mongodb",
         "express",

@@ -1,7 +1,7 @@
 ---
 slug: "projects/1-projmnge"
 added: "2021-08-04"
-video: "false"
+video: "true"
 nameOfClass: "projects-items"
 title: "프로젝트 관리"
 listName: "👩‍💻 /프로젝트 관리"
