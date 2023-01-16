@@ -5,6 +5,7 @@ listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "profile-circle.png"
 popupImageAlt: "img"
+video: ”false“
 
 ---
 
