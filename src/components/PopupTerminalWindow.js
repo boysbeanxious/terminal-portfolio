@@ -47,49 +47,7 @@ export default function PopupTerminalWindow({
             }}
           />
         </h1>
-        /*{video === "false" ? (
-          <div className="popupTerminalWindowImageContainer">
-            {(link = popupLiveLink || popupGithubLink) ? ( // eslint-disable-line no-cond-assign
-              <a href={link} target="_blank" rel="noopener noreferrer">
-                <img
-                  src={`${
-                    /^https/.test(popupImageSrc)
-                      ? popupImageSrc
-                      : "/" + popupImageSrc
-                  }`}
-                  className="popupTerminaWindowImage"
-                  alt={popupImageAlt}
-                ></img>
-              </a>
-            ) : (
-              <img
-                src={`${
-                  /^https/.test(popupImageSrc)
-                    ? popupImageSrc
-                    : "/" + popupImageSrc
-                }`}
-                className="popupTerminaWindowImage"
-                alt={popupImageAlt}
-              ></img>
-            )}
-          </div>
-        ) : (
-          <div className="popupTerminalWindowImageContainer">
-            <video
-              height="100%"
-              width="100%"
-              controls
-              autoplay
-              muted
-              loop
-              playsinline
-              className="popupTerminaWindowImage"
-            >
-              <source src={video} type="video/mp4" />
-              Your browser does not support the video tag.
-            </video>
-          </div>
-        )}*/
+        
 
         {popupGithubLink || popupLiveLink ? (
           <div className="popupTerminalWindowLinkIcons">
