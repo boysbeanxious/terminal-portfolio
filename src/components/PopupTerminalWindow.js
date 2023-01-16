@@ -47,7 +47,7 @@ export default function PopupTerminalWindow({
             }}
           />
         </h1>
-        {video === "false" ? (
+        /*{video === "false" ? (
           <div className="popupTerminalWindowImageContainer">
             {(link = popupLiveLink || popupGithubLink) ? ( // eslint-disable-line no-cond-assign
               <a href={link} target="_blank" rel="noopener noreferrer">
@@ -89,7 +89,7 @@ export default function PopupTerminalWindow({
               Your browser does not support the video tag.
             </video>
           </div>
-        )}
+        )}*/
 
         {popupGithubLink || popupLiveLink ? (
           <div className="popupTerminalWindowLinkIcons">
