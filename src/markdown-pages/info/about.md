@@ -1,6 +1,6 @@
 ---
 slug: "/about"
-video: "true"
+video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "profile-circle.png"
