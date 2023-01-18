@@ -42,16 +42,16 @@ techIcons: [
     </p>
 </div>
 
-### INSERT COIN III
+
+### INSERT COIN II
 <div style="display:inline-block;vertical-align:middle;">
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" height="200px" style="vertical-align:middle;">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
 </div>
 <div style="display:inline-block;">
     <p>
-		. 종가자체로 예측하기 위해 자기회귀모형 사용<br> 
-		. 최적의 파라미터 확인을 위해 grid search 진행<br>	
-		. RMSE기준으로 잔차가 가장 적은 파라미터 선택<br>
-
+                . 일자별로 주식 종가와의 상관 계수 확인<br>
+                . D-1, D-2, ---, D-n 일자의 종가가 D-Day의 종가와 가장 높은 상관관계를 보임 <br>
+                . 크롤링한 데이터 대신 종가기준으로 예측 진행 <br>
     </p>
 </div>
 
