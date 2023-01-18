@@ -18,14 +18,8 @@ techIcons: [
 ---
 ### INSERT COIN I
 
-<div float: left; width: 33%;">
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" style="float: left; width: 33%;">
-</div>
-<div float: left; width: 33%;">
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" style="float: left; width: 33%;">
-</div>
-<div float: left; width: 33%;">
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" style="float: left; width: 33%;">
+<div float: left; width: 100%;">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1.png" style="float: left; width: 100%;">
 </div>
 
 
