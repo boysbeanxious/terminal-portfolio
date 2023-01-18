@@ -24,13 +24,13 @@ techIcons: [
 </div>
 <div style="display:inline-block;">
     <p>
-                <span style ='background-color:#fff5b1'> ✔︎ 예측 대상 일은 하락장일 것이다</span><br>
+                <span style ='background-color:#F7DDBE'> ✔︎ 예측 대상 일은 하락장일 것이다</span><br>
                 . 지수와 환율이 서로 상반된 움직임을 보임<br>
                 . 예측하는 2021년 하반기의 경우 환율 상승<br>
                 . 예측 대상일을 하락장으로 가정하여 큰 폭의 하락을 보인 2019년 12월부터의 데이터 활용<br>
     </p>
 </div>
-
+<br>
 <div style="display:inline-block;vertical-align:middle;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" height="200px" style="vertical-align:middle;">
 </div>
@@ -42,7 +42,7 @@ techIcons: [
 		. 최적의 모델 기준으로 종가 예측<br>
     </p>
 </div>
-
+<br>
 
 <div style="display:inline-block;vertical-align:middle;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
@@ -54,7 +54,7 @@ techIcons: [
                 . 크롤링한 데이터 대신 종가기준으로 예측 진행 <br>
     </p>
 </div>
-
+<br>
 
 
 
