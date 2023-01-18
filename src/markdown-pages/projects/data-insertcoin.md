@@ -19,7 +19,7 @@ techIcons: [
 
 ### INSERT COIN I
 
-<div style="display:inline-block;vertical-align:top;">
+<div style="display:inline-block;vertical-align:middle;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200px" style="vertical-align:middle;">
 </div>
 <div style="display:inline-block;">
