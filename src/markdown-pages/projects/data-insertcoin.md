@@ -19,7 +19,7 @@ techIcons: [
 
 #### INSERT COIN I
 <figure>
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" style="display: block; margin: 0 auto;height="200">
 </figure>
 
 
