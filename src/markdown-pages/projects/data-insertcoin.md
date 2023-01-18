@@ -19,10 +19,10 @@ techIcons: [
 
 ### INSERT COIN I
 
-<div style="display:inline-block;vertical-align:middle;">
+<div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200px" style="vertical-align:middle;">
 </div>
-<div style="display:inline-block;">
+<div style="display:inline-block;vertical-align:middle">
     <p>
                 <span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ 예측 대상 일은 하락장일 것이다</span><br>
                 . 지수와 환율이 서로 상반된 움직임을 보임<br>
@@ -31,10 +31,10 @@ techIcons: [
     </p>
 </div>
 <br>
-<div style="display:inline-block;vertical-align:middle;">
+<div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" height="200px" style="vertical-align:middle;">
 </div>
-<div style="display:inline-block;">
+<div style="display:inline-block;vertical-align:middle">
     <p>
 		. 종가자체로 예측하기 위해 자기회귀모형 사용<br>
 		. 최적의 파라미터 확인을 위해 grid search 진행<br>
@@ -44,7 +44,7 @@ techIcons: [
 </div>
 <br>
 
-<div style="display:inline-block;vertical-align:middle;">
+<div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
 </div>
 <div style="display:inline-block;vertical-align:middle">
