@@ -16,7 +16,7 @@ techIcons: [
         "tailwindcss",
       ]
 ---
-
+<div style = "padding: 5px 1px 2px 3px;">  
 ### INSERT COIN I
 
 <div style="display:inline-block;vertical-align:top;">
@@ -53,7 +53,7 @@ techIcons: [
     </p>
 </div>
 <br>
-
+</div>
 
 
 
