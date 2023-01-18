@@ -2,7 +2,7 @@
 slug: "projects/2-insert-coin.md"
 nameOfClass: "projects-items dataProjects"
 added: "2021-12-11"
-title: "Insert Coin"
+title: "Insert Coin Trillogy"
 video: "true"
 listName: "📊 /insert_coin"
 popupImageSrc: "photo.jpeg"
@@ -18,8 +18,19 @@ techIcons: [
 ---
 ### INSERT COIN I
 
+<span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ INSERT COIN I</span><br>
 <div float: left; width: 100%;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1.png" style="float: left; width: 100%;">
+</div>
+
+<span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ INSERT COIN II</span><br>
+<div float: left; width: 100%;">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_2.png" style="float: left; width: 100%;">
+</div>
+
+<span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ INSERT COIN III</span><br>
+<div float: left; width: 100%;">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_3.png" style="float: left; width: 100%;">
 </div>
 
 
