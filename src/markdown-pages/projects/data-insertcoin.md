@@ -38,7 +38,7 @@ techIcons: [
 </figure>
 
 <div style="display:inline-block;vertical-align:top;">
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.pn" alt="img"/>
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200px" style="vertical-align:middle;">
 </div>
 <div style="display:inline-block;">
     <p>
