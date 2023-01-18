@@ -16,9 +16,9 @@ techIcons: [
         "tailwindcss",
       ]
 ---
-<div style = "padding: 5px 1px 2px 3px;">  
 ### INSERT COIN I
 
+<div style = "padding: 5px 1px 2px 3px;">  
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200px" style="vertical-align:middle;">
 </div>
