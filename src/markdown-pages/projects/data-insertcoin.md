@@ -47,7 +47,7 @@ techIcons: [
 <div style="display:inline-block;vertical-align:middle;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
 </div>
-<div style="display:inline-block;">
+<div style="display:inline-block;vertical-align:middle">
     <p>
                 . 일자별로 주식 종가와의 상관 계수 확인<br>
                 . D-1, D-2, ---, D-n 일자의 종가가 D-Day의 종가와 가장 높은 상관관계를 보임 <br>
