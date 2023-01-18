@@ -30,8 +30,6 @@ techIcons: [
                 . 예측 대상일을 하락장으로 가정하여 큰 폭의 하락을 보인 2019년 12월부터의 데이터 활용<br>
     </p>
 </div>
-<br>
-<hr />
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" height="200px" style="vertical-align:middle;">
 </div>
@@ -44,7 +42,6 @@ techIcons: [
     </p>
 </div>
 <br>
-<hr />
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
 </div>
