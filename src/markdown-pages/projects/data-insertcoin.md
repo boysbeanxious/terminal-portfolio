@@ -24,7 +24,7 @@ techIcons: [
 </div>
 <div style="display:inline-block;">
     <p>
-                <span style ='background-color:#F7DDBE'> ✔︎ 예측 대상 일은 하락장일 것이다</span><br>
+                <span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ 예측 대상 일은 하락장일 것이다</span><br>
                 . 지수와 환율이 서로 상반된 움직임을 보임<br>
                 . 예측하는 2021년 하반기의 경우 환율 상승<br>
                 . 예측 대상일을 하락장으로 가정하여 큰 폭의 하락을 보인 2019년 12월부터의 데이터 활용<br>
