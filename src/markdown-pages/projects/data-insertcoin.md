@@ -19,9 +19,8 @@ techIcons: [
 
 #### INSERT COIN I
 <figure>
-    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200">
 </figure>
-![](https://boysbeanxious22.netlify.app/insert_coin_1_1.png)
 
 
     - 데이콘에서 진행한 [2021 금융데이터 활용경진대회]에 참여하여 주식 종료가격 예측 
