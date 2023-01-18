@@ -20,7 +20,7 @@ techIcons: [
 #### INSERT COIN I
 <figure style="text-align: center;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.png" height="200px">
-	<p>
+	<p style="text-align: left;">
 			- 데이콘에서 진행한 [2021 금융데이터 활용경진대회]에 참여하여 주식 종료가격 예측<br>
 			- 코로나 이후 하락장이라는 가설 설정과 AR모형을 통해 오차 최소<br>
 			- 최종등수 15등으로 본선진출<br>
