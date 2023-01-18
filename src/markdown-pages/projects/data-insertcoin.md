@@ -37,6 +37,19 @@ techIcons: [
 	</p>
 </figure>
 
+<div style="display:inline-block;vertical-align:top;">
+    <img src="https://boysbeanxious22.netlify.app/insert_coin_1_1.pn" alt="img"/>
+</div>
+<div style="display:inline-block;">
+    <p>
+                . 지수와 환율이 서로 상반된 움직임을 보임<br>
+                . 예측하는 2021년 하반기의 경우 환율 상<br>
+                . 예측 대상일을 하락장으로 가정하여 큰 폭<br>
+                  하락장을 보인 2019년 12월부터의 데이터 활<br>
+    </p>
+</div>
+
+
 
  
 #### INSERT COIN II
