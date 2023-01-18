@@ -31,6 +31,7 @@ techIcons: [
     </p>
 </div>
 <br>
+<hr />
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_3.png" height="200px" style="vertical-align:middle;">
 </div>
@@ -43,7 +44,7 @@ techIcons: [
     </p>
 </div>
 <br>
-
+<hr />
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://boysbeanxious22.netlify.app/insert_coin_1_2.png" height="200px" style="vertical-align:middle;">
 </div>
