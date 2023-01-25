@@ -9,7 +9,7 @@ popupImageAlt: "img"
 ---
 
 
-라디오 키즈였던 한묘경은  
+라디오 키즈였던 학생은   
 APP 개발 돌풍으로 컴퓨터 공학이 떠오르던 그 때 불현듯 공대에 입학하여 컴퓨터를 전공하게 되고    
 대학생때 우연히 참가한 SAS 빅데이터 공모전을 계기로 데이터에 꾸준히 관심을 가지던 와중  
 퇴근길 SNS에서 발견한 KAIST 정보미디어 MBA를 통해 데이터기반의 비즈니스까지 챙기게 되는데…  
@@ -25,7 +25,7 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 
 
 ###  Skill set
-	* Language : PYTHON, SQL, JAVA, shell script, jsp 
+  *  Language : PYTHON, SQL, JAVA, shell script, jsp 
 	* Platform : WEB/APP
 	* System   : Window, Linux
 	* Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira
@@ -54,10 +54,9 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 	* 졸업 프로젝트인 ’매일매일 움직움직‘ 프로젝트의 기획과 개발에 참여하여 교내 경진대회 대상수상 
 <br/>
 
-### 자격증
+### 자격/수료증 
 #### proDS
-#### 2022.01 - 2023.02
-#### 정보미디어 MBA
+#### 2021.08.16
 
 #### 정보처리기사 
 #### 2022.01 - 2023.02
