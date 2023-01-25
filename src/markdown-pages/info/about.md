@@ -25,10 +25,10 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 
 
 ###  Skill set
-* Language : PYTHON, SQL, JAVA, shell script, jsp 
-* Platform : WEB/APP
-* System   : Window, Linux
-* Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
+*- Language : PYTHON, SQL, JAVA, shell script, jsp 
+*- Platform : WEB/APP
+*- System   : Window, Linux
+*- Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
 <br/>
 
 ### Experience
