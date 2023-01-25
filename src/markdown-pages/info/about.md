@@ -29,13 +29,11 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
   → Platform : WEB/APP  
   → System   : Window, Linux  
   → Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
-<br/>
 
 ### Experience
 #### 신세계 I&C
 	→ 2017.01 - 2021.12
 	→ 프로그래머 
-<br/>
 
 ### Education 
 #### KAIST
@@ -50,15 +48,12 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 	→ 정보미디어를 주전공으로 소프트웨어 공학을 기반 서비스 라이프 사이클 이해 및 요구사항 분석과 설계에 대해 심도 있게 학습  
 	→ 컴퓨터 소프트웨어를 부전공으로 선택하여 컴퓨터 언어와 구조에 대한 이해를 기반으로 개발 프로젝트 진행  
 	→ 졸업 프로젝트인 ’매일매일 움직움직‘ 프로젝트의 기획과 개발에 참여하여 교내 경진대회 대상수상   
-<br/>
 
 ### 자격/수료증
 
 #### Supervised Machine Learning 
 	→ 2022.10  
-<br/>
 #### proDS
 	→ 2021.08.16  
-<br/>
 #### 정보처리기사 
 	→ 2015.08
