@@ -8,10 +8,8 @@ listName: "📊 /insert_coin"
 popupImageSrc: "inert_coin.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
-        "react",
-        "html5",
-        "css3",
-        "tailwindcss",
+        "python",
+        "jupyter"
       ]
 ---
 
