@@ -16,6 +16,20 @@ techIcons: [
         "tailwindcss",
       ]
 ---
+어릴적, 누구나 한번쯤 접해본 오락실 게임.
+모든 게임의 시작을 지키고 있었던 문구는 단 하나다. 
+
+_INSERT COIN_
+
+
+어느날 문득 100원 짜리 동전 하나로 시작해서 몇천원과 행복을 맞바꾸는것이 오락실 게임과 투자가 닮아있다는 생각이 들었다.  돈을 넣어야 시작할 수 있는것 부터 시작하면 끝내기 힘들다는 점까지 닮은 점이 한둘이 아니었다. 
+
+그래서 프로젝트 INSERT COIN을 시작하게 되었고, 현재 Trilogy까지 완성한 상황이다. 
+
+INSERT COIN I 
+: 최초 INSERT COIN 프로젝트
+: 데이콘에서 주최하는 [주식가격 종가예측] 대회에 팀명 INSERT COIN 으로 참여하여 최종 15위 달성
+
 ### INSERT COIN I
 
 <span style ='color:#2D3748; background-color:#F7DDBE'> ✔︎ INSERT COIN I</span><br>
