@@ -7,8 +7,6 @@ video: "false"
 listName: "📊 /insert_coin"
 popupImageSrc: "inert_coin.png"
 popupImageAlt: "Country Quiz screenshot"
-popupLiveLink: "https://country-quiz.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/country-quiz"
 techIcons: [
         "react",
         "html5",
