@@ -1,21 +1,3 @@
----
-slug: "projects/2-insert-coin.md"
-nameOfClass: "projects-items dataProjects"
-added: "2021-12-11"
-title: "Insert Coin Trillogy"
-video: "false"
-listName: "📊 /insert_coin"
-popupImageSrc: "inert_coin.png"
-popupImageAlt: "Country Quiz screenshot"
-popupLiveLink: "https://country-quiz.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/country-quiz"
-techIcons: [
-        "react",
-        "html5",
-        "css3",
-        "tailwindcss",
-      ]
----
 어릴적, 누구나 한번쯤 접해본 오락실 게임.
 모든 게임의 시작을 지키고 있었던 문구는 단 하나다. 
 
