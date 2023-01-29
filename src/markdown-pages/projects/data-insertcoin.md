@@ -2,7 +2,7 @@
 slug: "projects/2-insert-coin.md"
 nameOfClass: "projects-items dataProjects"
 added: "2021-12-11"
-title: "Insert Coin Trillogy"
+title: "Insert Coin Trilogy"
 video: "false"
 listName: "📊 /insert_coin"
 popupImageSrc: "inert_coin.png"
@@ -18,14 +18,14 @@ techIcons: [
 ---
 
 
-어릴적, 누구나 한번쯤 접해본 오락실 게임.
+누구나 한번쯤 접해본 오락실 게임.  
 모든 게임의 시작을 지키고 있었던 문구는 단 하나다. 
 
 _INSERT COIN_
 
-어느날 문득 100원 짜리 동전 하나로 시작해서 몇천원과 행복을 맞바꾸는것이 오락실 게임과 투자가 닮아있다는 생각이 들었다.  돈을 넣어야 시작할 수 있는것 부터 시작하면 끝내기 힘들다는 점까지 닮은 점이 한둘이 아니었다. 
+어느날 문득, 100원 짜리 동전 하나로 시작해서 몇천원과 행복을 맞바꾸는 오락실 게임과 투자가 닮아있다는 생각이 들었다. 돈을 넣어야 시작할 수 있는것 부터 시작하면 끝내기 힘들다는 점까지 비슷한 점이 한둘이 아니었다. 
 
-그래서 프로젝트 INSERT COIN을 시작하게 되었고, 현재 Trilogy까지 완성한 상황이다.  
+그래서 프로젝트 명 INSERT COIN을 시작하게 되었고, 현재 3편까지 완성한 상황이다.  
 Trilogy에서 멈추지 않고 자연어처리를 기반으로 한 주식 종가 예측까지 계속 이어갈 예정이다.
 
   
