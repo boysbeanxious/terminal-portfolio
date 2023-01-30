@@ -4,7 +4,7 @@ added: "2021-08-02"
 nameOfClass: "projects-items itProjects"
 title: "[루트] 헬스케어의 답을 찾다"
 listName: "📱 /루트_헬스케어의_답을_찾다"
-video: ”true“
+video: ”false“
 popupImageSrc: "root.png"
 techIcons: [
         "html5",
