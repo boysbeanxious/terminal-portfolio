@@ -1,11 +1,12 @@
 ---
 slug: "projects/1-root"
-added: "2021-08-02"
 nameOfClass: "projects-items itProjects"
+added: "2021-08-02"
 title: "[루트] 헬스케어의 답을 찾다"
-listName: "📱 /루트_헬스케어의_답을_찾다"
 video: ”false“
+listName: "📱 /루트_헬스케어의_답을_찾다"
 popupImageSrc: "root.png"
+popupImageAlt: "Country Quiz screenshot"
 techIcons: [
         "html5",
         "css3",
@@ -14,11 +15,7 @@ techIcons: [
         "tailwindcss",
       ]
 ---
-
-
-
-
-
+  
 ### [메타마케팅의 신사업 개발 전략](https://drive.google.com/file/d/1XFDDcCWcDBmrjoKb_9uFDOg-tUFV7Wnr/view?usp=sharing)
 ✔︎ 경영자문 대상인 메타마케팅의 painpoint 이해  
 ✔︎ 디지털 마케팅에서 우선시 되는 3rd파티 쿠키제한으로 인한 자구책에 대해 자문  
