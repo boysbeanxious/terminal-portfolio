@@ -5,10 +5,8 @@ nameOfClass: "projects-items itProjects"
 title: "insert coin : spin off"
 listName: "📱 /insert_coin_spinoff"
 video: "false"
-popupImageSrc: "SunnysideSS.png"
+popupImageSrc: "ic_so.png"
 popupImageAlt: "Sunnyside agency screenshot"
-popupLiveLink: "https://sunnyside.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/Sunnyside"
 techIcons: [
         "html5",
         "css3",
