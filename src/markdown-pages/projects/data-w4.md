@@ -5,7 +5,7 @@ added: "2021-12-11"
 title: "주4일제"
 video: "false"
 listName: "📊 /주4일제와_산업의_변화"
-popupImageSrc: "country-quiz.webp"
+popupImageSrc: "week4.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
         "react",
