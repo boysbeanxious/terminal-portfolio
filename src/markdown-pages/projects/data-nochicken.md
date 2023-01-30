@@ -17,7 +17,11 @@ techIcons: [
       ]
 ---
 
-취업 준비 생 시절 지겹도록 본 그림이 있다.  
+취업 준비 생 시절 지겹도록 본 사진이 하나 있다.  
+
+<div style="display:inline-block;vertical-align:top;">
+    <img src="https://boysbeanxious22.netlify.app/jinro.jpeg" height="200px" style="vertical-align:middle;">
+</div>
 
 
     - 외식 업종 별 매출액에 영향을 미치는 요인이 서로 상이하다고 가정
