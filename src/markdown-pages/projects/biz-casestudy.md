@@ -4,7 +4,7 @@ added: "2021-08-02"
 nameOfClass: "projects-items bizProjects"
 title: "BTS, DBS의 Case Study"
 listName: "📋 /BTS, DBS의 Case Study"
-video: "true"
+video: "false"
 popupImageSrc: "bts.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
@@ -23,7 +23,7 @@ techIcons: [
 ✔︎ 소속사에서는 진정성을 더욱 극대화시킬 수 있는 플랫폼을 만들기 위해 투자   
 ✔︎ 무대나 화면을 넘어 아티스트와 함께하는 독창적이고 진짜 같은 경험, 특별한 경험을 함께 할 수 있는 공간을 제공하는 전략  
 
-### [Live more,Bank less]([https://drive.google.com/file/d/1p0YUw0_f0darOzwLUyeTyKHvTK8vlIAb/view?usp=sharing)   
+### [Live more,Bank less](https://drive.google.com/file/d/1p0YUw0_f0darOzwLUyeTyKHvTK8vlIAb/view?usp=sharing)   
 ✔︎ what : 고객의 pain point에서 모든것이 시작된다는 DBS의 모토헬스케어 분야   
 ✔︎ how : 4D design process와 해커톤을 통한 지속적인 고객 니즈 파악   
 ✔︎ Customer Journey의 Design Thinking을 실현   
