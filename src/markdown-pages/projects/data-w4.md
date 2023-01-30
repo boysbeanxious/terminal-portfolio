@@ -20,7 +20,7 @@ techIcons: [
 코로나 이후에는 재택의 검색량이 큰폭으로 증가하였고 시간이 지남에 따라 주 4일제에 대한 검색이 활발해지는것을 알 수 있었다. 
   
 <div style="display:inline-block;vertical-align:top;">
-    <img src="https://boysbeanxious22.netlify.app/naver_trend.png" height="400px" style="vertical-align:middle;">
+    <img src="https://boysbeanxious22.netlify.app/naver_trend.png" height="300px" style="vertical-align:middle;">
 </div>
   
 이러한 흐름을 기반으로 주 5일제인 현재 휴일을 보내는 방식과 주 4일제로 변하였을 때의 여가생활에 대해 설문조사를 진행하여 산업의 변화에 대해 예측해보았다. 
