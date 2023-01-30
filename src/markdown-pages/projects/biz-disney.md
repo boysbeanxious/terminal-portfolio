@@ -4,11 +4,9 @@ added: "2021-08-02"
 nameOfClass: "projects-items bizProjects"
 title: "disney 시나리오 플래닝"
 listName: "📋 /disney 시나리오 플래닝"
-video: "true"
-popupImageSrc: "SunnysideSS.png"
+video: "false"
+popupImageSrc: "disney.png"
 popupImageAlt: "Sunnyside agency screenshot"
-popupLiveLink: "https://sunnyside.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/Sunnyside"
 techIcons: [
         "html5",
         "css3",
@@ -18,8 +16,6 @@ techIcons: [
       ]
 ---
 
-### Overview
-test
 
-### The challenge
-test
+### [디즈니의 시나리오 플래닝](https://docs.google.com/presentation/d/1dVY_FBiXImksPMB-P-peUWunfETU6mwl/edit#slide=id.p1)
+
