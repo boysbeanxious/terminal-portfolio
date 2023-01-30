@@ -4,7 +4,7 @@ added: "2021-08-02"
 nameOfClass: "projects-items itProjects"
 title: "매일매일 움직움직"
 listName: "📱 /매일매일 움직움직"
-video: "true"
+video: "false"
 popupImageSrc: "movmov.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
