@@ -8,7 +8,8 @@ listName: "👩‍💻 /프로젝트 관리"
 techIcons: [
         "java",
         "spring",
-        "oracle"
+        "springboot",
+        "oracle",
       ]
 ---
 
