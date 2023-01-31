@@ -21,7 +21,7 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
   
 ### [관심분야](https://boysbeanxious.github.io)
 #Data Analytics, #Machine Learning, #Media, #Platform
-
+  
   
   
 ### [Skill set](https://boysbeanxious.github.io)
