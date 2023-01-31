@@ -1,18 +1,14 @@
 ---
 slug: "projects/3-projmnge"
-added: "2021-08-04"
+added: "2017-01-09"
 video: "true"
 nameOfClass: "projects-items"
 title: "프로젝트 관리"
 listName: "👩‍💻 /프로젝트 관리"
 techIcons: [
-        "mongodb",
-        "express",
-        "react",
-        "nodedotjs",
-        "html5",
-        "css3",
-        "heroku",
+        "java",
+        "spring",
+        "oracle"
       ]
 ---
 
