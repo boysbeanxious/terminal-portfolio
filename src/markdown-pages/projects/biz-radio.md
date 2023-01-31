@@ -1,17 +1,24 @@
 ---
 slug: "projects/1-radio"
-added: "2021-08-02"
+added: "2999-12-31"
 nameOfClass: "projects-items bizProjects"
 title: "콘텐츠가 나아가야할 길"
 listName: "📋 /콘텐츠가_나아가야할_길"
 video: "true"
-popupImageSrc: "SunnysideSS.png"
+popupImageSrc: "cm.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
         "microsoftoffice",
         "googlechrome"
       ]
 ---
+
+내 인생을 관통하는 키워드를 두개 꼽자면 바로 미디어와 콘텐츠이다.  
+어릴적 들었던 라디오가 가장 큰 이유인데, 정말 신기하게도 진심을 다해 쓴 사연은 항상 라디오 주파수를 통해 들을 수 있었다.  
+소통의 창구인 미디어, 그리고 창구를 통해 사람들에게 희노애락을 선사하는 콘텐츠야 말로 내 가슴을 두근거리게 하는 주제이다.  
+  
+지금까지 나를 지탱해준 미디어와 콘텐츠가 나아가야 할 길은 무엇일까?  
+여러 연구 주제를 기반으로 실증 분석 여행에 떠나보자.  
 
 ### [라디오 청취율 측정 방식과 새로운 패러다임 제시 : from 1988 to 2022]()  
 ✔︎ 전통적인 라디오 청취율 조사방식의 문제점 도출  
