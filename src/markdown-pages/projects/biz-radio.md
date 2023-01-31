@@ -4,7 +4,7 @@ added: "2999-12-31"
 nameOfClass: "projects-items bizProjects"
 title: "콘텐츠가 나아가야할 길"
 listName: "📋 /콘텐츠가_나아가야할_길"
-video: "true"
+video: "false"
 popupImageSrc: "cm.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
