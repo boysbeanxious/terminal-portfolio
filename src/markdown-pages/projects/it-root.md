@@ -8,14 +8,20 @@ listName: "📱 /루트_헬스케어의_답을_찾다"
 popupImageSrc: "root.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
-        "html5",
-        "css3",
-        "javascript",
-        "react",
-        "tailwindcss",
+        "python",
+        "figma"
       ]
 ---
-      
+
+기업의 경영자문을 통해 인사이트를 제공하는 MBA 졸업프로젝트로 헬스케어 업계의 ad-tech 기업인 '메타마케팅'이 자문 대상 기업이었다.  
+3rd 파티 쿠키 제한으로 자체 데이터 풀이 필요한 상황이었기에  
+0, 1st 파티 데이터를 확보할 수 있는 서비스를 기획하였다.  
+  
+_만약 나라면 이 서비스를 사용할까?_  
+  
+라는 근본적인 질문을 통해 헬스케어 서비스에 대해 정의하였고, 이를 뒷받침하는 AI기술과 테이블 설계를 통해 기획의 실현성을 입증하였다.   
+공감되는 유저시나리오와 참신한 아이디어, 그리고 탄탄한 기술을 기반으로 발표하여 당시 교수님은 물론 동기들의 뜨거운 반응을 이끌어냈다.  
+
 ### [메타마케팅의 신사업 개발 전략](https://drive.google.com/file/d/1XFDDcCWcDBmrjoKb_9uFDOg-tUFV7Wnr/view?usp=sharing)
 ✔︎ 경영자문 대상인 메타마케팅의 painpoint 이해  
 ✔︎ 디지털 마케팅에서 우선시 되는 3rd파티 쿠키제한으로 인한 자구책에 대해 자문  
