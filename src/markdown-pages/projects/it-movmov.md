@@ -12,7 +12,7 @@ techIcons: [
         "arduino",
         "bluetooth",
         "java",
-        "mssql",
+        "mysql",
       ]
 ---
 대학 졸업을 앞둔 여름이였다.  
