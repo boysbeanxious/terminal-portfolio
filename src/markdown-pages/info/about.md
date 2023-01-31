@@ -20,7 +20,7 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 
 
 
-### 관심분야
+### [관심분야]()
 <i>#Data Analytics</i>, <i>#Machine Learning</i>, <i>#Media</i>, <i>#Platform</i><br/>
 
 
