@@ -30,13 +30,15 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
   → System   : Window, Linux  
   → Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
   
-  
+
 
 ### [Experience](https://boysbeanxious.github.io)
+> 신세계 I&C 
+> 2017.01 - 2021.12  
+> 프로그래머   
 **신세계 I&C**  
 	→ 2017.01 - 2021.12  
-	→ 프로그래머   
-
+	→ 프로그래머 
 ### [Education](https://boysbeanxious.github.io) 
 #### KAIST
 _2022.01 - 2023.02_  
