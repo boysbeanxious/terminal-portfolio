@@ -1,7 +1,7 @@
 ---
 slug: "projects/4-nochicken.md"
 nameOfClass: "projects-items dataProjects"
-added: "2021-12-11"
+added: "2022-06-12"
 title: "치킨집은 정답이 아니다"
 video: "false"
 listName: "📊 /치킨집은_정답이_아니다"
