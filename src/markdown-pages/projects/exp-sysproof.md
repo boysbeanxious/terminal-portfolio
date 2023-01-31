@@ -6,13 +6,9 @@ nameOfClass: "projects-items"
 title: "시스템 검증"
 listName: "👩‍💻 /시스템 검증"
 techIcons: [
-        "mongodb",
-        "express",
-        "react",
-        "nodedotjs",
-        "html5",
-        "css3",
-        "heroku",
+        "java",
+        "spring",
+        "oracle"
       ]
 ---
 
