@@ -1,18 +1,14 @@
 ---
 slug: "projects/2-sysdev"
-added: "2021-08-04"
+added: "2017-01-09"
 video: "true"
 nameOfClass: "projects-items"
 title: "시스템 설계∙개발"
 listName: "👩‍💻 /시스템 설계∙개발"
 techIcons: [
-        "mongodb",
-        "express",
-        "react",
-        "nodedotjs",
-        "html5",
-        "css3",
-        "heroku",
+        "java",
+        "spring",
+        "oracle"
       ]
 ---
 
