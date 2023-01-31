@@ -1,6 +1,6 @@
 ---
 slug: "projects/2-ic-spinoff"
-added: "2021-08-02"
+added: "2021-10-19"
 nameOfClass: "projects-items itProjects"
 title: "insert coin : spin off"
 listName: "📱 /insert_coin_spinoff"
@@ -9,8 +9,7 @@ popupImageSrc: "ic_so.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
         "python",
-        "amazonecs",
-        "amazonsqs",
+        "amazonaws",
         "elasticsearch",
         "docker"
       ]
