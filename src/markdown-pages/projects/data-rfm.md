@@ -2,9 +2,9 @@
 slug: "projects/1-rfm.md"
 nameOfClass: "projects-items dataProjects"
 added: "2022-08-07"
-title: "RFM"
+title: "RFM 기반 술담화 데이터 분석"
 video: "false"
-listName: "📊 /RFM을 통한 술담화 고객 클러스터링"
+listName: "📊 /RFM 기반 술담화 데이터 분석"
 popupImageSrc: "rfm.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
