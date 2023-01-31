@@ -1,7 +1,7 @@
 ---
 slug: "projects/3-w4.md"
 nameOfClass: "projects-items dataProjects"
-added: "2021-12-11"
+added: "2022-11-30"
 title: "주4일제가 가져올 산업의 변화"
 video: "false"
 listName: "📊 /주4일제가_가져올_산업의_변화"
