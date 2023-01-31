@@ -7,12 +7,14 @@ popupImageSrc: "profile-circle.png"
 popupImageAlt: "img"
 
 ---
-
+```python
+#Data Analytics, #Machine Learning, #Media, #Platform
+```
 
 라디오 키즈였던 학생은   
 APP 개발 돌풍으로 컴퓨터 공학이 떠오르던 그 때 불현듯 공대에 입학하여 컴퓨터를 전공하게 되고    
 대학생때 우연히 참가한 SAS 빅데이터 공모전을 계기로 데이터에 꾸준히 관심을 가지던 와중  
-퇴근길 SNS에서 발견한 KAIST 정보미디어 MBA를 통해 데이터기반의 비즈니스까지 챙기게 되는데…  
+퇴근길 SNS에서 발견한 정보미디어 MBA를 통해 데이터기반의 비즈니스까지 챙기게 되는데…  
 
 ‘어쩜 이럴수 있을까?’ 싶겠지만 다양한 경험이 결국 인생의 자양분이 되어  
 IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 흥미를 느끼고 최근에는 
