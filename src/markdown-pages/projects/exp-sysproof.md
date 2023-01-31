@@ -1,6 +1,6 @@
 ---
 slug: "projects/1-sysproof"
-added: "2021-08-04"
+added: "2017-01-09"
 video: "true"
 nameOfClass: "projects-items"
 title: "시스템 검증"
