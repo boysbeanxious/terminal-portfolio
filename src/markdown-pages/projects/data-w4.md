@@ -2,9 +2,9 @@
 slug: "projects/3-w4.md"
 nameOfClass: "projects-items dataProjects"
 added: "2021-12-11"
-title: "주4일제"
+title: "주4일제가 가져올 산업의 변화"
 video: "false"
-listName: "📊 /주4일제와_산업의_변화"
+listName: "📊 /주4일제가_가져올_산업의_변화"
 popupImageSrc: "week4.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
@@ -27,7 +27,8 @@ techIcons: [
 _주 4일로 변화면 우리 삶에 어떤 변화가 찾아올까?_  
   
 라는 질문을 기반으로 설문조사를 진행하였다. 주 5일제인 현재 휴일을 보내는 방식과 휴일이 하루 더 주어졌을 때 어떤 활동을 하고싶은지 취합하고  
-응답자의 선호도를 기반으로 산업의 변화에 대해 예측해보았다.
+응답자의 선호도를 기반으로 산업의 변화에 대해 공공데이터 최근 뉴스를 활용하여 예측해보았다.
+
 
 ### [주 4일제 도입을 통한 우리의 라이프스타일 변화와 이에 따른 산업 변화 예측](https://drive.google.com/file/d/1b3BNdmR3LS7qOhhtCT2wDhLhK9RlfMCN/view?usp=share_link)
 ✔︎ ‘주 4일제에 따른 산업 변화 예측’을 위해 현재 휴일을 어떻게 보내는지 설문 작성  
