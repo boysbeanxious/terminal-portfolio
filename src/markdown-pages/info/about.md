@@ -20,22 +20,22 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 
 
 
-### [관심분야]
+### [관심분야](https://boysbeanxious.github.io)
 <i>#Data Analytics</i>, <i>#Machine Learning</i>, <i>#Media</i>, <i>#Platform</i><br/>
 
 
-###  Skill set
+### [Skill set](https://boysbeanxious.github.io)
   → Language : PYTHON, SQL, JAVA, shell script, jsp   
   → Platform : WEB/APP  
   → System   : Window, Linux  
   → Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
 
-### Experience
+### [Experience](https://boysbeanxious.github.io)
 #### 신세계 I&C
 	→ 2017.01 - 2021.12
 	→ 프로그래머 
 
-### Education 
+### [Education](https://boysbeanxious.github.io) 
 #### KAIST
 _2022.01 - 2023.02_  
 _정보미디어 MBA_   
@@ -49,7 +49,7 @@ _IT학부_
 → 컴퓨터 소프트웨어를 부전공으로 선택하여 컴퓨터 언어와 구조에 대한 이해를 기반으로 개발 프로젝트 진행  
 → 졸업 프로젝트인 ’매일매일 움직움직‘ 프로젝트의 기획과 개발에 참여하여 교내 경진대회 대상수상   
 
-### 자격/수료증
+### [자격/수료증](https://boysbeanxious.github.io)
 
 #### Supervised Machine Learning 
 	→ 2022.10  
