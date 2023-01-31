@@ -1,5 +1,5 @@
 ---
-slug: "projects/1-projmnge"
+slug: "projects/3-projmnge"
 added: "2021-08-04"
 video: "true"
 nameOfClass: "projects-items"
