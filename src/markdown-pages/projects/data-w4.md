@@ -8,10 +8,9 @@ listName: "📊 /주4일제가_가져올_산업의_변화"
 popupImageSrc: "week4.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
-        "react",
-        "html5",
-        "css3",
-        "tailwindcss",
+        "python",
+        "tableau",
+        "microsoftoffice"
       ]
 ---
 
