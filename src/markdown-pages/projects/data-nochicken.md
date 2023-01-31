@@ -18,7 +18,7 @@ techIcons: [
 이 프로젝트를 진행하게 된 것은 취업 준비 생 시절 나를 웃게 한 사진 덕분이다.
 
 <div style="display:inline-block;vertical-align:top;">
-    <img src="https://boysbeanxious22.netlify.app/jinro.jpg" height="400px" style="vertical-align:middle;">
+    <img src="https://boysbeanxious22.netlify.app/jinro.jpg" height="300px" style="vertical-align:middle;">
 </div>
   
 어떤 선택을 하든 결국 치킨 집으로 귀결된다는 것이 안정감을 주면서도 궁금증을 자아낼 수 밖에 없었다.  
