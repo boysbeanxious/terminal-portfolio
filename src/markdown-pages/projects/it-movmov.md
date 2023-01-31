@@ -1,6 +1,6 @@
 ---
 slug: "projects/3-movmov"
-added: "2021-08-02"
+added: "2015-09-14"
 nameOfClass: "projects-items itProjects"
 title: "매일매일 움직움직"
 listName: "📱 /매일매일 움직움직"
