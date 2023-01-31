@@ -8,11 +8,8 @@ video: "true"
 popupImageSrc: "disney.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
-        "html5",
-        "css3",
-        "javascript",
-        "react",
-        "tailwindcss",
+        "microsoftoffice",
+        "googlechrome"
       ]
 ---
 
