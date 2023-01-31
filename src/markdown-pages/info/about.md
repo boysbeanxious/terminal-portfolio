@@ -24,12 +24,15 @@ IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 
 ```python
 #Data Analytics, #Machine Learning, #Media, #Platform
 ```
-
+  
+  
 ### [Skill set](https://boysbeanxious.github.io)
   → Language : PYTHON, SQL, JAVA, shell script, jsp   
   → Platform : WEB/APP  
   → System   : Window, Linux  
   → Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
+  
+  
 
 ### [Experience](https://boysbeanxious.github.io)
 #### 신세계 I&C
