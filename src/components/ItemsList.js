@@ -170,10 +170,13 @@ export default function ItemsList() {
           width: "70%",
         }}
       >
-        {`lrwxr-xr-x 1 kielx admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} -> `}
-        <a href={item.node.frontmatter.popupGithubLink}>
-          {item.node.frontmatter.popupGithubLink}
-        </a>
+        {`lrwxr-xr-x 1 kielx admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} `}
+	${item.node.frontmatter.popupGithubLink}==false? (""):(
+		<a href={item.node.frontmatter.popupGithubLink}>
+		  {item.node.frontmatter.popupGithubLink}
+		</a>
+	)
+        
       </span>
     </li>
   ))
