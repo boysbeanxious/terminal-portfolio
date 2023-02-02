@@ -8,7 +8,8 @@ listName: "👩‍💻 /시스템 검증"
 techIcons: [
         "java",
         "spring",
-        "oracle"
+        "oracle",
+        "linux"
       ]
 ---
 
