@@ -8,10 +8,8 @@ listName: "📊 /치킨집은_정답이_아니다"
 popupImageSrc: "chicken.png"
 popupImageAlt: "Country Quiz screenshot"
 techIcons: [
-        "react",
-        "html5",
-        "css3",
-        "tailwindcss",
+        "python",
+        "jupyter"
       ]
 ---
 
