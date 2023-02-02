@@ -8,7 +8,8 @@ listName: "👩‍💻 /시스템 설계∙개발"
 techIcons: [
         "java",
         "spring",
-        "oracle"
+        "oracle",
+        "linux"
       ]
 ---
 
