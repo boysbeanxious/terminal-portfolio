@@ -10,6 +10,7 @@ techIcons: [
         "spring",
         "springboot",
         "oracle",
+        "linux"
       ]
 ---
 
