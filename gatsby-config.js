@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Future Developer Portfolio`,
     titleTemplate: `%s | Future Developer Portfolio`,
-    description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
+    description: `IT의 	견고함에 비즈니스 분석 역량을 더한 Future Developer`,
     author: `MK HAN`,
     url: "https://pantak.net",
     image: "/terminal.png", // Path to your image you placed in the 'static' folder
