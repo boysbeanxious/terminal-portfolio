@@ -1,5 +1,5 @@
 ---
-slug: "projects/1-sysproof"
+slug: "experience/1-sysproof"
 added: "2017-01-09"
 video: "true"
 nameOfClass: "projects-items"
