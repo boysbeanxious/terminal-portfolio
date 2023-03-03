@@ -1,5 +1,5 @@
 ---
-slug: "projects/3-casestudy"
+slug: "biz-projects/3-casestudy"
 added: "2022-01-25"
 nameOfClass: "projects-items bizProjects"
 title: "BTS, DBS의 Case Study"

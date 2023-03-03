@@ -1,5 +1,5 @@
 ---
-slug: "projects/3-movmov"
+slug: "it-projects/3-movmov"
 added: "2015-09-14"
 nameOfClass: "projects-items itProjects"
 title: "매일매일 움직움직"

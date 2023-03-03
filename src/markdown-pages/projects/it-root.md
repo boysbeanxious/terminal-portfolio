@@ -1,5 +1,5 @@
 ---
-slug: "projects/1-root"
+slug: "it-projects/1-root"
 nameOfClass: "projects-items itProjects"
 added: "2022-12-09"
 title: "[루트] 헬스케어의 답을 찾다"

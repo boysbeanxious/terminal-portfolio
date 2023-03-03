@@ -1,5 +1,5 @@
 ---
-slug: "projects/1-rfm.md"
+slug: "data-projects/1-rfm.md"
 nameOfClass: "projects-items dataProjects"
 added: "2022-08-07"
 title: "RFM 기반 술담화 데이터 분석"
