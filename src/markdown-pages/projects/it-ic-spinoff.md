@@ -1,5 +1,5 @@
 ---
-slug: "it-projects/ic-spinoff.md"
+slug: "it-project/ic-spinoff.md"
 added: "2021-10-19"
 nameOfClass: "projects-items itProjects"
 title: "insert coin : spin off"

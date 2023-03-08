@@ -1,5 +1,5 @@
 ---
-slug: "biz-projects/rfm.md"
+slug: "biz-project/rfm.md"
 nameOfClass: "projects-items bizProjects"
 added: "2022-08-07"
 title: "RFM 기반 마케팅 전략 수립"

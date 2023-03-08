@@ -1,5 +1,5 @@
 ---
-slug: "data-projects/nochicken.md"
+slug: "data-project/nochicken.md"
 nameOfClass: "projects-items dataProjects"
 added: "2022-06-12"
 title: "치킨집은 정답이 아니다"

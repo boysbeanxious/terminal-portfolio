@@ -1,5 +1,5 @@
 ---
-slug: "idea-Laboratories/idea-CNM.md"
+slug: "idea-Laboratory/idea-CNM.md"
 added: "2999-12-31"
 nameOfClass: "projects-items ideaLabs"
 title: "콘텐츠가 나아가야할 길"

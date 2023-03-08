@@ -1,5 +1,5 @@
 ---
-slug: "data-projects/insert-coin.md"
+slug: "data-project/insert-coin.md"
 nameOfClass: "projects-items dataProjects"
 added: "2021-12-11"
 title: "Insert Coin Trilogy"

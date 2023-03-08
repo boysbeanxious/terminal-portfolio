@@ -1,5 +1,5 @@
 ---
-slug: "biz-projects/disney.md"
+slug: "biz-project/disney.md"
 added: "2021-08-02"
 nameOfClass: "projects-items bizProjects"
 title: "disney 시나리오 플래닝"
