@@ -1,5 +1,5 @@
 ---
-slug: "experience/2-sysdev"
+slug: "experience/sysdev.md"
 added: "2017-01-09"
 video: "true"
 nameOfClass: "projects-items"

@@ -1,5 +1,5 @@
 ---
-slug: "biz-projects/1-radio"
+slug: "biz-projects/radio.md"
 added: "2999-12-31"
 nameOfClass: "projects-items bizProjects"
 title: "콘텐츠가 나아가야할 길"

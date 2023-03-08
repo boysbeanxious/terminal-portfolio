@@ -1,5 +1,5 @@
 ---
-slug: "data-projects/3-w4.md"
+slug: "data-projects/w4.md"
 nameOfClass: "projects-items dataProjects"
 added: "2022-11-30"
 title: "주4일제가 가져올 산업의 변화"
