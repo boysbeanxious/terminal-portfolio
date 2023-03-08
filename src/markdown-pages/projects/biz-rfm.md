@@ -2,7 +2,7 @@
 slug: "biz-project/rfm.md"
 nameOfClass: "projects-items bizProjects"
 added: "2022-08-07"
-title: "RFM 기반 마케팅 전략 수립"
+title: "RFM기반_마케팅_전략_수립"
 video: "false"
 listName: "📊 /RFM 기반 마케팅 전략 수립"
 popupImageSrc: "rfm.png"
