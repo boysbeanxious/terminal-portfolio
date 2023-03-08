@@ -238,6 +238,7 @@ export default function ItemsList() {
         {projects} <li className="dataProject">→ Data-Sideproject:</li>
 	    <li className="itProject">→ IT-Sideprojects:</li>
 	    <li className="bizProject">→ Biz-Sideprojects:</li>
+	    <li className="ideaLab">→ idea-Laboratory:</li>
       </>
     )
   }
@@ -261,7 +262,8 @@ export default function ItemsList() {
         <li>→ Experience in Shinsegae I&C:</li>
         {projectsMobile}  <li className="dataProject">→ Data-Sideproject:</li>
         	<li className="itProject">→ IT-Sideprojects:</li>
-	    <li className="bizProject">→ Biz-Sideprojects:</li>
+	    	<li className="bizProject">→ Biz-Sideprojects:</li>
+		<li className="ideaLab">→ idea-Laboratory:</li>
       </>
     )
   }

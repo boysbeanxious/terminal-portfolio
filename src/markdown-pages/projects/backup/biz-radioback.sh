@@ -1,17 +1,3 @@
----
-slug: "biz-projects/radio.md"
-added: "2999-12-31"
-nameOfClass: "projects-items bizProjects"
-title: "콘텐츠가 나아가야할 길"
-listName: "📋 /콘텐츠가_나아가야할_길"
-video: "false"
-popupImageSrc: "cm.png"
-popupImageAlt: "Sunnyside agency screenshot"
-techIcons: [
-        "microsoftoffice",
-        "googlechrome"
-      ]
----
 
 내 인생을 관통하는 키워드를 두개 꼽자면 바로 미디어와 콘텐츠이다.  
 어릴적 들었던 라디오가 가장 큰 이유인데, 정말 신기하게도 진심을 다해 쓴 사연은 항상 라디오 주파수를 통해 들을 수 있었다.  
