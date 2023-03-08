@@ -1,3 +1,18 @@
+---
+slug: "biz-projects/rfm.md"
+nameOfClass: "projects-items bizProjects"
+added: "2022-08-07"
+title: "RFM 기반 마케팅 전략 수립"
+video: "false"
+listName: "📊 /RFM 기반 마케팅 전략 수립"
+popupImageSrc: "rfm.png"
+popupImageAlt: "Country Quiz screenshot"
+techIcons: [
+        "python",
+        "jupyter",
+        "postgresql"
+      ]
+---
 
 이론으로 배운 모델링을 실제 데이터에 접목하여 비즈니스 관점에서 해석한 첫번째 프로젝트이다.   
 전통주를 판매하는 온라인 플랫폼 '술담화'와 함께 한 프로젝트로 그들의 니즈는 명확했다.    
