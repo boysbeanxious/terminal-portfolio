@@ -36,7 +36,7 @@ _주 4일로 변화면 우리 삶에 어떤 변화가 찾아올까?_
 
 
 
-### [주 4일제 도입을 통한 우리의 라이프스타일 변화와 이에 따른 산업 변화 예측](https://drive.google.com/file/d/1b3BNdmR3LS7qOhhtCT2wDhLhK9RlfMCN/view?usp=share_link)
+### [주 4일제 도입을 통한 우리의 라이프스타일 변화와 이에 따른 산업 변화 예측](https://drive.google.com/file/d/1b3BNdmR3LS7qOhhtCT2wDhLhK9RlfMCN/view?usp=share_link "클릭하면 상세 문서를 다운받을 수 있습니다.")
 __step1.설문데이터 수집__  
 ✔︎ ‘주 4일제에 따른 산업 변화 예측’을 위해 현재 휴일을 어떻게 보내는지 설문 작성  
 ✔︎ 데모그래픽 별 차이를 확인하기 위해 나이와 연봉, 자녀여부 수집  
