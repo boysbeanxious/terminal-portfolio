@@ -29,14 +29,11 @@ _주 4일로 변화면 우리 삶에 어떤 변화가 찾아올까?_
 라는 질문을 기반으로 설문조사를 진행하였다. 주 5일제인 현재 휴일을 보내는 방식과 휴일이 하루 더 주어졌을 때 어떤 활동을 하고싶은지 취합하고  
 응답자의 선호도를 기반으로 산업의 변화에 대해 공공데이터 최근 뉴스를 활용하여 예측해보았다.
 
-<body>
-    <div class="container">
-        <div class="icon">
-            <img class="img1" src=""/>
-            <span>이 아이콘에 대한 설명입니다.!</span>
-        </div>
-    </div>
-</body>
+<div class="icon">
+### [주 4일제 도입을 통한 우리의 라이프스타일 변화와 이에 따른 산업 변화 예측]
+<span>이 아이콘에 대한 설명입니다.!</span>
+</div>
+
 
 
 ### [주 4일제 도입을 통한 우리의 라이프스타일 변화와 이에 따른 산업 변화 예측](https://drive.google.com/file/d/1b3BNdmR3LS7qOhhtCT2wDhLhK9RlfMCN/view?usp=share_link)
