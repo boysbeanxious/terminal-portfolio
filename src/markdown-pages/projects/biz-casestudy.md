@@ -25,7 +25,7 @@ Best Practice로 선정될만한 두 기업 하이브(BTS)와 DBS의 사례를 �
 ### [BTS : Beyond The Scene](https://drive.google.com/file/d/1XThN730fuh6zo9qMscAWHxdbbvf31Aoa/view?usp=sharing  "클릭하여 상세 문서를 다운받을 수 있습니다.")   
 ✔︎ 여타 아이돌과 달리 직접 작사/작곡에 참여하여 음악에 진정성을 담음  
 ✔︎ SNS로 소통이 활발하지 않았던 시절부터 트위터를 통해 팬들과 소통    
-✔︎ 하이브에서는 진정성을 더욱 극대화시킬 수 있도록 위버스와 같은 자체 플랫폼 
+✔︎ 하이브에서는 진정성을 더욱 극대화시킬 수 있도록 위버스와 같은 자체 플랫폼 제작  
 ✔︎ 무대나 화면을 넘어 아티스트와 함께하는 독창적이고 진짜 같은 경험, 특별한 경험을 함께 할 수 있는 공간을 제공하는 전략을 세워 성공함  
 
 ### [DBS : Dare to Experiment!](https://drive.google.com/file/d/1p0YUw0_f0darOzwLUyeTyKHvTK8vlIAb/view?usp=sharing  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
