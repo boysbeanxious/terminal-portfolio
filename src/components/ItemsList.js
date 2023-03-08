@@ -238,7 +238,7 @@ export default function ItemsList() {
         {projects} <li className="dataProject">→ Data-Sideproject:</li>
 	    <li className="itProject">→ IT-Sideproject:</li>
 	    <li className="bizProject">→ Biz-Sideproject:</li>
-	    <li className="ideaLab">→ idea-Laboratory:</li>
+	    <li className="ideaLab">→ Idea-Laboratory:</li>
       </>
     )
   }
@@ -263,7 +263,7 @@ export default function ItemsList() {
         {projectsMobile}  <li className="dataProject">→ Data-Sideproject:</li>
         	<li className="itProject">→ IT-Sideproject:</li>
 	    	<li className="bizProject">→ Biz-Sideproject:</li>
-		<li className="ideaLab">→ idea-Laboratory:</li>
+		<li className="ideaLab">→ Idea-Laboratory:</li>
       </>
     )
   }
