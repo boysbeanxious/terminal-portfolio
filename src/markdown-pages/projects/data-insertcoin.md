@@ -25,7 +25,7 @@ _INSERT COIN_
 Trilogy에서 멈추지 않고 자연어처리를 기반으로 한 주식 종가 예측까지 계속 이어갈 예정이다.
 
   
-### [INSERT COIN I : 주식 종료가격 예측](https://drive.google.com/file/d/1K7sl6rLGxETRN9r5hpAT_8jORxX2DR-H/view  "클릭하면 상세 문서를 다운받을 수 있습니다.")    
+### [INSERT COIN I : 주식 종료가격 예측](https://drive.google.com/file/d/1K7sl6rLGxETRN9r5hpAT_8jORxX2DR-H/view  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.예측 대상 일은 하락장일것이다__      
 ✔︎ 지수와 환율이 서로 상반된 움직임을 보임      
 ✔︎ 예측하는 2021년 하반기의 경우 환율 상승      
@@ -44,7 +44,7 @@ __step3.자기회귀(AR)모형__
 ✔︎ RMSE기준으로 잔차가 가장 적은 파라미터 선택  
   
   
-### [INSERT COIN II : 거시지표 기반의 환율 예측](https://docs.google.com/presentation/d/12MXZBETpu6qNdGp8aQCni2mf_Hp7PZ4T/edit  "클릭하면 상세 문서를 확안할 수 있습니다.") 
+### [INSERT COIN II : 거시지표 기반의 환율 예측](https://docs.google.com/presentation/d/12MXZBETpu6qNdGp8aQCni2mf_Hp7PZ4T/edit  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.환율 대신 환율 증감율__    
 ✔︎ 환율데이터 예측 프로젝트 진행  
 ✔︎ 환율과 같은 가격 데이터는 비정상성을 가져 예측하기 어렵기 때문에 정상성 확보를 위해 차분 진행  
@@ -62,7 +62,7 @@ __step3.시계열 데이터로 선형회귀__
 ✔︎ OLS 선형회귀 분석 수행하여 변수 별 영향력 확인  
   
   
-### [INSERT COIN III : KOSPI/S&P500 지수 예측](https://drive.google.com/file/d/1G3d_ViNj8xwgdw0F5mDrtZ6lsoOl2ROt/view  "클릭하면 상세 문서를 확안할 수 있습니다.")   
+### [INSERT COIN III : KOSPI/S&P500 지수 예측](https://drive.google.com/file/d/1G3d_ViNj8xwgdw0F5mDrtZ6lsoOl2ROt/view  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.기술지표+거시지표 활용__  
 ✔︎ 종가만을 활용한 INSERT COINⅠ의 경우 비정상성을 띄는 데이터로 주가 분석 진행  
 ✔︎ 종가 이외의 볼린저밴드, RSI와 같은 기술지표와 소비자 물가지수, 국제유가 증감율과 같은 거시지표 수집  

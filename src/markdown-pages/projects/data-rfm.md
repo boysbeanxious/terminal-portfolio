@@ -23,7 +23,7 @@ _"매출을 올리고 싶습니다"_
 그 중에서도 마케팅 관점에서 고객 분석을 위해 매출 데이터 기반으로 RFM을 산정하여 고객 클러스터링을 진행하였고  
 데모그래픽 기반으로 클러스터의 특성을 파악하여 전략을 세웠다.  
 
-### [담화마켓 성장을 위한 데이터 분석 프로젝트](https://drive.google.com/file/d/17S0AACogD0NuWdkyENVeCxI7nFIRf5hF/view?usp=sharing  "클릭하면 상세 문서를 확안할 수 있습니다.") 
+### [담화마켓 성장을 위한 데이터 분석 프로젝트](https://drive.google.com/file/d/17S0AACogD0NuWdkyENVeCxI7nFIRf5hF/view?usp=sharing  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.매출 기반 RFM 산정__  
 ✔︎ STP 프레임워크 수립을 위해 고객 세분화 진행  
 ✔︎ 고객과 매출 데이터를 기반으로 고객 별 RFM 측정   

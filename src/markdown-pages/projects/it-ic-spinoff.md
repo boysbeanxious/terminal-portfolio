@@ -29,7 +29,7 @@ _주식을 움직이는 힘은 무엇일까?_
   
 __수많은 데이터 중 어떤 정보가 주식에 가장 큰 영향을 주는지 분석해보자__
 
-### [spin off : 감정분석을 통한 주가 예측](https://github.com/boysbeanxious/insertcoin)
+### [spin off : 감정분석을 통한 주가 예측](https://github.com/boysbeanxious/insertcoin   "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1. 프로세스 흐름 설계∙구축__  
 ✔︎ client side 없이 Server 기준으로 설계  
 ✔︎ Python으로 개발한 Crawling프로그램으로 수집   

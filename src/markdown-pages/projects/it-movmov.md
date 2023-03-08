@@ -26,7 +26,7 @@ _운동을 아무리 해도 자세가 잘못되면 그건 운동을 한게 아�
 웨어러블 홈 PT파트너 : 매일매일 움직움직을 제작하였고    
 이 프로젝트로 교내 소프트웨어 경진대회에 출전하여 금상을 수상하였다.
 
-### [아두이노를 이용한 헬스케어 솔루션 : 매일매일 움직움직](https://docs.google.com/presentation/d/12-4NHg8yEkHy_y4LaYJQl0o_YlPPAH6X/edit#slide=id.p1)
+### [아두이노를 이용한 헬스케어 솔루션 : 매일매일 움직움직](https://docs.google.com/presentation/d/12-4NHg8yEkHy_y4LaYJQl0o_YlPPAH6X/edit#slide=id.p1  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.웨어러블 홈 PT파트너 기획__  
 ✔︎ 운동이 힘든 사용자의 pain point에 집중   
 ✔︎ 운동환경과 경제적 부담을 덜어주는 방안으로 집에서도 PT를 받는것과 같은 효과를 내는 웨어러블 홈 PT 파트너 ‘매일매일 움직움직’기획     
