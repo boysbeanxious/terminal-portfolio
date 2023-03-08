@@ -30,7 +30,7 @@ Best Practice로 선정될만한 두 기업 하이브(BTS)와 DBS의 사례를 �
 
 ### [DBS : Dare to Experiment!](https://drive.google.com/file/d/1p0YUw0_f0darOzwLUyeTyKHvTK8vlIAb/view?usp=sharing  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 ✔︎ 과거의 금융권은 서비스의 안정성과 보안의 이슈로 신기술을 가장 느리게 적용하는 분야에 속함  
-✔︎ 그럼에도 DBS는 스스로를 GANDALFF라고 칭하며 Google, Apple과 어깨를 나란히 하기 위해 노력  
+✔︎ 그럼에도 DBS는 스스로를 GANDALF라고 칭하며 Google, Apple과 어깨를 나란히 하기 위해 노력  
 ✔︎ 고객의 pain point에서 모든것이 시작된다는 모토로 삼고 빠른 적용과 실패를 경험할수 있는 해커톤을 통한 지속적인 고객 니즈 파악   
 ✔︎ 기술 뿐만 아니라 문화에도 마이크로서비스 디자인 원칙을 적용하여 기업 전체가 agile한 구조를 가짐  
     
