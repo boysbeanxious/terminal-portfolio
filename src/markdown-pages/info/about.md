@@ -12,26 +12,22 @@ popupImageAlt: "img"
 APP 개발 돌풍으로 컴퓨터 공학이 떠오르던 그 때 불현듯 공대에 입학하여 컴퓨터를 전공하게 되고    
 대학생 때 우연히 참가한 SAS 빅데이터 공모전을 계기로
 취업한 이후까지 꾸준히 데이터에 대한 관심을 이어가던 와중  
-퇴근길 SNS에서 발견한 MBA에 입과하여 데이터기반의 비즈니스까지 챙기게 되는데…  
+퇴근길 SNS에서 발견한 MBA에 입과하여 데이터 기반의 비즈니스까지 챙기게 되는데…  
 
-‘어쩜 이럴수 있을까?’ 싶겠지만 다양한 경험이 결국 인생의 자양분이 되어  
+‘어쩜 이럴수 있을까?’ 싶겠지만 다양한 경험이 결국 인생의 자양분이 되었습니다.  
 IT와 데이터, 비즈니스 지식을 기반으로 insight를 도출하는데 흥미를 느끼고 최근에는 
-‘비트 바이 비트’를 읽으며 계산사회과학에대해 공부하고 있습니다.
+‘비트 바이 비트’를 읽으며 계산 사회 과학에 대해 공부하고 있습니다.
   
   
 ### [관심분야](https://boysbeanxious.github.io)
 #Causal Inference, #Computational Social Science, #Data Analytics,  #Contents And Media, #Machine Learning
 
 
-
-
-
-
 ### [Skill set](https://boysbeanxious.github.io)
   → Language : PYTHON, SQL, JAVA, shell script, jsp   
   → Platform : WEB/APP  
   → System   : Window, Linux  
-  → Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, GIT, Jenkins, Jira
+  → Tool     : IntelliJ, jupyter notebook, Eclips, DataGrip, GIT, Jenkins, Jira
   
   
 ### [Experience](https://boysbeanxious.github.io) 
@@ -54,7 +50,7 @@ _2022.01 - 2023.02 정보미디어 MBA_
   
 **성신여자대학교**  
 _2011.03 - 2016.08 IT학부_      
-→ 정보미디어를 주전공으로 소프트웨어 공학을 기반 서비스 라이프 사이클 이해 및 요구사항 분석과 설계에 대해 심도 있게 학습      
+→ 정보미디어를 주전공으로 소프트웨어 공학을 기반 서비스 라이프 사이클을 이해하고 요구사항 분석과 설계에 대해 심도 있게 학습      
 → 컴퓨터 소프트웨어를 부전공으로 선택하여 컴퓨터 구조와 언어에 대한 이해를 기반으로 개발 프로젝트 진행      
 → 졸업 프로젝트인 ’매일매일 움직움직‘의 기획과 개발에 참여하여 교내 경진대회 금상 수상       
   
@@ -64,7 +60,7 @@ _2011.03 - 2016.08 IT학부_
 _2023.01 DataCamp_  
 → 온라인 교육 플랫폼 Data Camp에서 제공하는 자격증  
 → Certificate 자격 시험 응시를 위한 96시간 교육 이수   
-→ Professional Certificate 자격 시험 통과  
+→ Associate Certificate 자격 시험 통과  
   
 **Supervised Machine Learning**   
 _2022.10 Coursera_  
