@@ -74,5 +74,5 @@ __step2.상승/하락의 분류 문제로__
   
 __step3.높은 정확도를 위한 최적모델 탐색__  
 ✔︎ 회귀알고리즘을 기반으로 만들어진 Logistic Regression은 물론 SVM와 Random Forest 방식 모두 사용하여 데이터 학습 진행        
-✔︎ 집단지성을 활용하는 Random Forest에서 가장 좋은 점수 도출  
+✔︎ 정확도를 matric으로 여러가지 모델을 비교하였을 때 Random Forest에서 가장 좋은 점수 도출  
 
