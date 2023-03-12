@@ -64,7 +64,7 @@ __step3.시계열 데이터로 선형회귀__
   
 ### [INSERT COIN III : KOSPI/S&P500 지수 예측](https://drive.google.com/file/d/1G3d_ViNj8xwgdw0F5mDrtZ6lsoOl2ROt/view  "클릭하여 상세 문서를 다운받을 수 있습니다.")  
 __step1.기술지표+거시지표 활용__  
-✔︎ 종가만을 활용한 INSERT COINⅠ의 경우 비정상성을 띄는 데이터로 주가 분석 진행  
+✔︎ 종가만을 활용한 INSERT COIN Ⅰ의 경우 비정상성을 띄는 데이터로 주가 분석 진행  
 ✔︎ 종가 이외의 볼린저밴드, RSI와 같은 기술지표와 소비자 물가지수, 국제유가 증감율과 같은 거시지표 수집  
 ✔︎ 정상성 확보를 위해 차분 진행  
   
