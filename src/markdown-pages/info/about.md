@@ -44,6 +44,9 @@ _2013.02 - 2013.08 라디오국 인턴PD_
   
 ### [Education](https://boysbeanxious.github.io)   
 **KAIST**  
+_2023.08 ~ on going 계산사회과학_    
+  
+**KAIST**  
 _2022.01 - 2023.02 정보미디어 MBA_    
 → 마케팅, 전략, 재무 등의 일반 경영관리에 대한 이해를 바탕으로 Business Analytics에 대한 힘을 기름    
 → 데이터를 기반으로 비즈니스의 문제를 해결하는 인사이트를 얻기 위해 BA 집중분야 이수      
