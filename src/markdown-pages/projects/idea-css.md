@@ -1,11 +1,11 @@
 ---
-slug: "idea-Laboratory/idea-cs.md"
+slug: "idea-Laboratory/idea-css.md"
 added: "2999-12-31"
 nameOfClass: "projects-items ideaLabs"
 title: "계산사회과학"
 listName: "💡 /계산사회과학"
 video: "false"
-popupImageSrc: "cm.png"
+popupImageSrc: "css.png"
 popupImageAlt: "Sunnyside agency screenshot"
 techIcons: [
         "microsoftoffice",
