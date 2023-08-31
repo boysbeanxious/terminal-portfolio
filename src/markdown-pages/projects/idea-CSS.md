@@ -1,5 +1,5 @@
 ---
-slug: "idea-Laboratory/idea-css.md"
+slug: "idea-Laboratory/idea-CSS.md"
 added: "2999-12-31"
 nameOfClass: "projects-items ideaLabs"
 title: "계산사회과학"
