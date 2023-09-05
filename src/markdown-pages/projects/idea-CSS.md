@@ -53,6 +53,11 @@ techIcons: [
 ✔︎   요즘 수많은 대중매채를 통해 평가를 하고 있다  
 ✔︎   이것 때문에 오히려 사람들의 사고방식이 양극단으로 치닫는것 아닐까?  
 
+
+<div style="display:inline-block;vertical-align:top;">
+    <img src="https://boysbeanxious22.netlify.app/death_valley.png" height="300px" style="vertical-align:middle;">
+</div>
+
 ### [인간 능률의 death valley 를 어떻게 측정할 수 있는가????]()
 ✔︎   인간이 일을 할때 death valley가 있음  
 ✔︎   특정 양 이상이 되면 death valley를 지나 초싸이어인이 되는것을 볼수 있음  
