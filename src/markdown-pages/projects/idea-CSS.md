@@ -49,6 +49,11 @@ techIcons: [
 ✔︎ 그래서 하고싶은 말은, 서양과 달리 동양의 경우 뉴미디어와 익명성이 가져다 준 긍정적인 효과가 있다   
 ✔︎ 실험이 필요한걸까  
 
+✔︎ 그러니까 왜 라이브러리를 만들어서 오픈소스로 공유하는거죠?  
+✔︎ CatBoost is an open-source software library developed by Yandex. It provides a gradient boosting framework which among other features attempts to solve for Categorical features using a permutation driven alternative compared to the classical algorithm.  
+✔︎ 머신러닝에 신규 라이브러리들을 왜 왜왜 오픈소스로 공유하는거죠?  
+
+
 
 ### [measurement like 별점 시스템 make polarization?]()
 ✔︎   요즘 수많은 대중매채를 통해 평가를 하고 있다  
