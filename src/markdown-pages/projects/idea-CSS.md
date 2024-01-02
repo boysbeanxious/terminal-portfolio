@@ -53,6 +53,10 @@ techIcons: [
 ✔︎ CatBoost is an open-source software library developed by Yandex. It provides a gradient boosting framework which among other features attempts to solve for Categorical features using a permutation driven alternative compared to the classical algorithm.  
 ✔︎ 머신러닝에 신규 라이브러리들을 왜 왜왜 오픈소스로 공유하는거죠?  
 
+### [interdisciplinary?]()     
+✔︎ 논문들의 reference를 추적하자  
+✔︎ 과연 이걸 interdisciplinary하다고 할 수 있을까?  
+✔︎ 그런것들이 좋은 논문이라고 할 수 있을까?  
 
 
 ### [measurement like 별점 시스템 make polarization?]()
